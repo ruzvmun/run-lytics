@@ -51,7 +51,7 @@ function HeroSection() {
           className="mx-auto mb-10 max-w-2xl text-lg leading-relaxed text-slate-300 sm:text-xl"
         >
           Business Intelligence & Analytics solutions that transform your raw data into clear,
-          actionable insights — powered by Power BI, Tableau, and Qlik.
+          actionable insights — powered by current leading data analytics tools such as Power BI, Tableau and Qlik..
         </motion.p>
 
         <motion.div
